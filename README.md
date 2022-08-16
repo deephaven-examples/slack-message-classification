@@ -28,4 +28,4 @@ The process contains 3 steps:
  - send a notification if a message is classified as toxic
 
 ## How to run
-Run 'sh start.sh' and open http://localhost:10000/ide/ 
+Run `sh start.sh` and open http://localhost:10000/ide/ 
