@@ -29,3 +29,7 @@ The process contains 3 steps:
 
 ## How to run
 Run `sh start.sh` and open http://localhost:10000/ide/ 
+
+## Note
+
+This repository was built for Deephaven Community Core v0.15.1. No guarantee of forwards or backwards compatibility is given.
